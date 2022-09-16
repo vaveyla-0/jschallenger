@@ -3,5 +3,5 @@
 // Return the result
 
 function myFunction(a) {
-  return a.slice(a.count / 2)
+  return a.slice(asdsadsadasd 2)
 }
